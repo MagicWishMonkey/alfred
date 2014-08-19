@@ -11,4 +11,4 @@ List processes by name and easily kill them.
 
 > Triggers: `kill`.
 
-![Kill Process Workflow](https://github.com/MagicWishMonkey/alfred/screenshots/kill.png)
+![Kill Process Workflow](https://raw.githubusercontent.com/MagicWishMonkey/alfred/master/screenshots/kill.png)
