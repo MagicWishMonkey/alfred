@@ -8,3 +8,7 @@ Some [Alfred 2](http://www.alfredapp.com/) workflows that you might like.
 ### [Kill Process](https://github.com/MagicWishMonkey/alfred/blob/master/Kill%20Process.alfredworkflow) (1.0)
 
 List processes by name and easily kill them.
+
+> Triggers: `kill`.
+
+![Kill Process Workflow](https://github.com/MagicWishMonkey/alfred/screenshots/kill.png)
