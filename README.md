@@ -12,3 +12,14 @@ List processes by name and easily kill them.
 > Triggers: `kill`.
 
 ![Kill Process Workflow](https://raw.githubusercontent.com/MagicWishMonkey/alfred/master/screenshots/kill.png)
+
+
+### [Crypto](https://github.com/MagicWishMonkey/alfred/blob/master/Crypto.alfredworkflow) (1.0)
+
+Miscellaneous crypto functions, including an unhash function to attempt to recover the original text from a hash.
+
+> Triggers: `md5`, `sha1`, `sha256`, `sha512`, `unhash`.
+
+![md5](https://raw.githubusercontent.com/MagicWishMonkey/alfred/master/screenshots/md5.png)
+![sha512](https://raw.githubusercontent.com/MagicWishMonkey/alfred/master/screenshots/sha512.png)
+![unhash](https://raw.githubusercontent.com/MagicWishMonkey/alfred/master/screenshots/unhash.png)
