@@ -7,9 +7,9 @@ Some [Alfred 2](http://www.alfredapp.com/) workflows that you might like.
 
 ### [Crypto](https://github.com/MagicWishMonkey/alfred/blob/master/Crypto.alfredworkflow) (1.0)
 
-Miscellaneous crypto functions, including an unhash function to attempt to recover the original text from a hash.
+Miscellaneous crypto functions, including a password generator and an unhash function to attempt to recover the original text from a hash.
 
-> Triggers: `md5`, `sha1`, `sha256`, `sha512`, `unhash`.
+> Triggers: `pwd`, `md5`, `sha1`, `sha256`, `sha512`, `unhash`.
 
 ![md5](https://raw.githubusercontent.com/MagicWishMonkey/alfred/master/screenshots/md5.png)
 ![sha512](https://raw.githubusercontent.com/MagicWishMonkey/alfred/master/screenshots/sha512.png)
